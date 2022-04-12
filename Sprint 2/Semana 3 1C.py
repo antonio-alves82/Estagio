@@ -3,5 +3,3 @@ def numero():
     print(numeros, end = "  ")
 if __name__== "__main__":
   numero()
-  import os
-os.system("pause")
