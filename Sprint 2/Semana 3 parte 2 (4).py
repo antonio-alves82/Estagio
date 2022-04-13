@@ -7,4 +7,4 @@ idades = [19, 28, 25, 31]
 juntos = list(chain(primeirosNomes, sobreNomes, idades))
 
 frase = ''.join(juntos)
-print = ("Teste de texto ", frase)
+print = (frase)
