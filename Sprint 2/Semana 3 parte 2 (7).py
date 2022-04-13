@@ -4,4 +4,4 @@ a = '{"name":"Fulano Da Silva","endereco":"Rua Sem Nome, 31","startDateExecution
 b = json.loads(a)
 
 print("JSON string = ", b)
-print()
+print(b)

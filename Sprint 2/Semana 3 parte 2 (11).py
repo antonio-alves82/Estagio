@@ -5,3 +5,5 @@ soma = 0
 for i in b:
     soma += int(i)
 print ('A soma do resultado é : '+  str(soma))
+import os
+os.system("pause")

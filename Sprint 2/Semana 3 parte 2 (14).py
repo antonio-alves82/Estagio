@@ -21,3 +21,5 @@ print("O valor máximo dos 50 numeros é " +str(valor_maximo))
 print("O valor minímo dos 50 numeros é " +str(valor_minimo))
 print ("o valor da mediana é: " +str (md.median(randomlist)))
 print (randomlist)
+import os
+os.system("pause")

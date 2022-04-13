@@ -4,3 +4,5 @@ def fatiamento(list):
     for i in range(0, len(list), 3):
         print(list[i:i+3])
 fatiamento(a)
+import os
+os.system("pause")
