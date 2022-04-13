@@ -1,5 +1,20 @@
-Linha_1
-Linha_2
-Linha_3
-Linha_4
-Linha_5
+Miguel: 28.301
+Arthur: 26.655
+Gael 23.973
+Heitor: 22.368
+Theo: 19.853
+Davi: 18.304
+Gabriel: 17.159
+Bernardo: 15.935
+Samuel: 15.563
+João Miguel: 13.254
+Helena: 21.890
+Alice: 20.381
+Laura: 18.448
+Maria Alice: 14.677
+Valentina: 11.643
+Heloísa: 11.355
+Maria Clara: 10.980
+Maria Cecília: 10.850
+Maria Julia: 10.235
+Sophia: 10.163
