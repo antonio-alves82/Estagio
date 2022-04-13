@@ -6,3 +6,5 @@ for b, c in speed.items():
     a.append(c) 
 a = list(set(a)) 
 print(a)
+import os
+os.system("pause")
