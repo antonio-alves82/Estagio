@@ -1,7 +1,5 @@
 import csv
 
-from nbformat import write
-
 
 with open('actors.csv', 'r') as actors_csv:
     leitor = csv.reader(actors_csv)
